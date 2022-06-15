@@ -1,0 +1,8 @@
+body{
+    background-image: url("https://thumbs.dreamstime.com/b/blank-canvas-background-rough-flax-50186520.jpg");
+}
+#mycanvas{
+    border-width: 10px;
+    border-style: ridge;
+    background-color: aqua;
+}
